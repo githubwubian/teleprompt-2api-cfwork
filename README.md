@@ -11,7 +11,7 @@
 
 > "我们不是在编写代码，我们是在铸造通往更智能未来的钥匙。每一行，都是对平庸的挑战。" —— 首席AI执行官
 
-[![部署到 Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/lza6/teleprompt-2api-cfwork)
+[![部署到 Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/githubwubian/teleprompt-2api-cfwork)
 
 </div>
 
